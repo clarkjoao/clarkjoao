@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends</h1>
+<h3 align="center">I'm João Clark.
+I'm a full stack developer 💻 ✨.</h3>
+</br>
+</br>
 
-<!--
-**clarkjoao/clarkjoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 ┇I’m currently learning **AngularJS and NestJS**
 
-Here are some ideas to get you started:
+- 🥋 ┇I'm like work with **ReactJS, React Native, Typescript, NodeJS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 ┇Ask me about **Games, Bots, Good Historys and Beer🍻**
+
+- 😂 ┇Fun fact **I'm not superman's cousin.**
+</br>
+</br>
+
+<h3 align="left">📌 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/joaoluisclark"><img src="https://raw.githubusercontent.com/clarkjoao/clarkjoao/master/assets/linkeding.svg"></a>
+<a href="https://instagram.com/luisclark_"><img src="https://raw.githubusercontent.com/clarkjoao/clarkjoao/master/assets/insta.svg"></a>
+<a href="mailto:clarkjoao@gmail.com"><img src="https://raw.githubusercontent.com/clarkjoao/clarkjoao/master/assets/gmail.svg"></a>
+</p>
