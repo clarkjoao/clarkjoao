@@ -12,11 +12,10 @@ I'm a full stack developer 💻 ✨.</h3>
 
 - 😂 ┇Fun fact **I'm not superman's cousin.**
 </br>
-</br>
 
 <h3 align="left">📌 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joaoluisclark"><img src="https://raw.githubusercontent.com/clarkjoao/clarkjoao/master/assets/linkeding.svg"></a>
+<a href="https://linkedin.com/in/joaoluisclark"><img src="https://raw.githubusercontent.com/clarkjoao/clarkjoao/master/assets/linkedin.svg"></a>
 <a href="https://instagram.com/luisclark_"><img src="https://raw.githubusercontent.com/clarkjoao/clarkjoao/master/assets/insta.svg"></a>
 <a href="mailto:clarkjoao@gmail.com"><img src="https://raw.githubusercontent.com/clarkjoao/clarkjoao/master/assets/gmail.svg"></a>
 </p>
