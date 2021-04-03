@@ -15,7 +15,7 @@ I'm a full stack developer 💻 ✨.</h3>
 
 <h3 align="left">📌 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joaoluisclark"><img src="https://raw.githubusercontent.com/clarkjoao/clarkjoao/master/assets/linkedin.svg"></a>
-<a href="https://instagram.com/luisclark_"><img src="https://raw.githubusercontent.com/clarkjoao/clarkjoao/master/assets/insta.svg"></a>
-<a href="mailto:clarkjoao@gmail.com"><img src="https://raw.githubusercontent.com/clarkjoao/clarkjoao/master/assets/gmail.svg"></a>
+<a href="https://linkedin.com/in/joaoluisclark"><img alt="My LinkedIn" width="32" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></a>
+<a href="https://instagram.com/luisclark_"><img alt="My instagram" width="32" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" /></a>
+<a href="mailto:clarkjoao@gmail.com"><img  alt="My e-mail"width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></a>
 </p>
