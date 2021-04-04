@@ -19,3 +19,5 @@ I'm a full stack developer 💻 ✨.</h3>
 <a href="https://instagram.com/luisclark_"><img alt="My instagram" width="32" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" /></a>
 <a href="mailto:clarkjoao@gmail.com"><img  alt="My e-mail"width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=clarkjoao&color=blue&style=flat)
