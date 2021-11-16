@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends</h1>
 <h3 align="center">I'm João Clark.
-I'm a full stack developer 💻 ✨.</h3>
+a full stack developer 💻 ✨.</h3>
 </br>
 </br>
 
