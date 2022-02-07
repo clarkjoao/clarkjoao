@@ -1,23 +1,16 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends</h1>
-<h3 align="center">I'm João Clark.
-a full stack developer 💻 ✨.</h3>
-</br>
-</br>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🌱 ┇I’m currently learning **NextJS and NestJS**
+I'm [Luis Clark](https://www.linkedin.com/in/joaoluisclark/), Software Engineer at [BEPRO Network](https://github.com/bepronetwork) (remote position).
 
-- 🥋 ┇I'm like work with **ReactJS, React Native, Typescript, NodeJS**
+A **Brazilian developer** who loves exploring technology and accepting challenges.
 
-- 💬 ┇Ask me about **Games, Bots, Good Historys and Beer🍻**
+- I like working with server projects, game servers, bots, scripts;
+- I recently became interested in the web3 dev community and looking to learn more;
+- Currently I work mainly with **JavaScript** and its amazing frameworks, my favorite is **NextJs** and **NestJS**;
 
-- 😂 ┇Fun fact **I'm not superman's cousin.**
-</br>
+if you want to be keep up to date on my adventures, or want invite-me to a new challenge, follow me everywhere.
 
-<h4 align="left">📌 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joaoluisclark"><img alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/luisclark_"><img alt="My instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:clarkjoao@gmail.com"><img  alt="My e-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoluisclark/) [![Instagram](https://img.shields.io/badge/Instagram-555555?style=for-the-badge&logo=instagram)](https://instagram.com/luisclark_)
+[![Discord](https://img.shields.io/badge/Discord-555555?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Luis%20Clark#1254)
 
-![](https://komarev.com/ghpvc/?username=clarkjoao&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=clarkjoao&color=lightgrey&style=flat)
