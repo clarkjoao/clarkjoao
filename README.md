@@ -2,7 +2,7 @@
 
 I'm [Luis Clark](https://www.linkedin.com/in/joaoluisclark/), Software Engineer at [BEPRO Network](https://github.com/bepronetwork) (remote position).
 
-A **Brazilian developer** who loves exploring technology and accepting challenges.
+A **Brazilian developer** 🇧🇷 who loves exploring technology and accepting challenges.
 
 - I like working with server projects, game servers, bots, scripts;
 - I recently became interested in the web3 dev community and looking to learn more;
