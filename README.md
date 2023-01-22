@@ -1,10 +1,10 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm [Luis Clark](https://www.linkedin.com/in/joaoluisclark/), a Software Engineer at [TAIKAI](https://github.com/taikai) & [BEPRO Network](https://github.com/bepronetwork). 
+I'm [Luis Clark](https://www.linkedin.com/in/joaoluisclark/), a Software Developer.
 
 I'm a **Brazilian developer** 🇧🇷 who loves exploring technology and accepting challenges.
 
-- I like working with server projects, game servers, bots, scripts;
+- I like working with https server, tcp/udp servers, bots, scripts;
 - I recently became interested in the web3 dev community and I'm looking forward to learn more;
 - Currently I work mainly with **JavaScript** and its amazing frameworks, my favorites are **NextJs** and **NestJS**;
 
